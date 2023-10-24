@@ -1,0 +1,6 @@
+5;5
+1;Andrzej Sapkowski;Wiedzmin Ostatnie Zyczenie;3
+2;Andrzej Sapkowski;Wiedzmin Miecz Przeznaczenia;0
+3;Andrzej Sapkowski;Wiedzmin Krew Elfow;4
+4;Andrzej Sapkowski;Wiedzmin Czas Pogardy 3;1
+5;Andrzej Sapkowski;Wiedzmin Chrzest Ognia;0
